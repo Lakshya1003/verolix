@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405926333410",
+    "project_id": "verolix-cfdb1",
+    "storage_bucket": "verolix-cfdb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405926333410:android:1cc6e77457152037ebc7bb",
+        "android_client_info": {
+          "package_name": "com.example.verolix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYXpa5sRs6VZzADZTB1HiIbbB_xukwZtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
